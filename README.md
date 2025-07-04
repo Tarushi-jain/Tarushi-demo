@@ -1,4 +1,4 @@
 # Tarushi-demo
 After a long time
 <br>
-Author ; Tarushi Jain
+Author ; Tarushi khapre
